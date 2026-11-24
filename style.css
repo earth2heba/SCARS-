@@ -1,0 +1,145 @@
+
+
+/* BACKGROUND COLOURS */
+
+	.background-dark-red{
+		background-color: #7A0412;
+	}
+
+	.background-crimson{
+		background-color: #8B1E1E;
+	}
+
+	.background-brown{
+		background-color: #58413F;
+	}
+
+	.background-beige{
+		background-color: #FFDDB6;
+	}
+
+
+/* TEXT COLOURS */
+
+	.text-white {
+		color: #FFFFFF; }
+
+	.text-dark-red {
+		color: #7A0412; }
+
+	.text-crimson {
+		color: #8B1E1E; }
+
+
+
+
+/* NAV & FOOTER STYLES */
+
+.nav-menu { 
+    list-style-type: none;
+    padding: 0;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: 14px;
+    line-height: 100%;
+    font-weight: 400;
+    width: 100%;
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    align-items: center; }
+
+   .nav-menu a { color: #ffffff; 
+	             text-decoration: none}
+
+
+
+
+
+
+
+/* BUTTON & LINK STYLES */
+
+.button {
+    padding: 10px 18px 10px 18px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    text-decoration: none;
+    font-size: 14px;
+    display: inline-block;
+    border: none;
+    border-radius:14px 14px 14px 14px;
+}
+
+
+.button-white {
+    background-color: #FFFFFF; 
+}
+
+.button-crimson {
+    background-color: #8B1E1E;
+}
+
+
+
+
+
+
+
+
+
+/* TYPE STYLES */
+
+	h1 {
+		font-family: "Plus Jakarta Sans", sans-serif;
+		font-size: 56;
+		font-weight: 800;
+		line-height: 64px;
+		letter-spacing: -1.12px; }
+
+	.h1 {
+		font-family: "Plus Jakarta Sans", sans-serif;
+		font-size: 56;
+		font-weight: 800;
+		line-height: 64px;
+		letter-spacing: -1.12px;  }
+
+
+
+	h2 {
+		font-family: "Plus Jakarta Sans", sans-serif;
+		font-size: 40;
+		font-style: Bold;
+		line-height: 48px;
+		letter-spacing: -0.8px; }
+
+	.h2 {
+		font-family: "Plus Jakarta Sans", sans-serif;
+		font-size: 40;
+		font-style: Bold;
+		line-height: 48px;
+		letter-spacing: -0.8px; }
+
+
+	p {
+	    font-family: "Plus Jakarta Sans", sans-serif;
+		font-size: 18;
+		line-height: 28px;
+		letter-spacing: 0%;  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
